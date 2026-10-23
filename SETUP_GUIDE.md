@@ -2,7 +2,7 @@
 
 This guide is intentionally written for someone who has never configured a LaTeX environment before.
 
-> Looking for Markdown instead? Markdown usually needs no compiler. See [`04_Markdown_Handbooks/Markdown_Setup_and_Editors_Guide.md`](04_Markdown_Handbooks/Markdown_Setup_and_Editors_Guide.md) for VS Code, GitHub, HackMD, StackEdit, Jupyter/Colab, and Quarto workflows.
+> Looking for Markdown instead? Markdown usually needs no compiler. See the [Markdown for Beginners editor guide](https://github.com/ningzhanglab/Markdown-for-Beginners/blob/main/04_Markdown_Handbooks/Markdown_Setup_and_Editors_Guide.md) for VS Code, GitHub, HackMD, StackEdit, Jupyter/Colab, and Quarto workflows.
 
 If you only want to start writing immediately, use **Overleaf**. If you want a local workflow, use **VS Code + LaTeX Workshop + TinyTeX**.
 
